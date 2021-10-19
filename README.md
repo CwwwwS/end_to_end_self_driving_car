@@ -33,7 +33,5 @@ This will generate a file `model-<epoch>.h5` whenever the performance in the epo
 
 ## Credits
 
-The credits for this code go to [naokishibuya](https://github.com/naokishibuya). I've merely created a wrapper to get people started.
-
-
-
+This code is attributed to https://github.com/architsave/How_to_simulate_a_self_driving_car-master .
+I just made a little adjustment
