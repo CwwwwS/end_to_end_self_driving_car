@@ -1,5 +1,5 @@
 # end_to_end_self_driving_car
-This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Youtube
+This is the code for https://www.bilibili.com/video/BV1NT4y1L7ki?spm_id_from=333.999.0.0
 
 ```python
 # Use TensorFlow without GPU
